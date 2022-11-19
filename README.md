@@ -1,2 +1,2 @@
 # familyTreeNodejs
-familyy tree api
+family tree api to add info and relation
